@@ -1,0 +1,41 @@
+@media(max-width: 1064px){
+    /*----  Hero  -----------------------------------------------------------*/
+    .hero {
+        height: 100%;
+      }
+    
+    h1 {
+        font-size: 25px;
+        width: 50%;
+      }
+    .hero-image{
+        width: 50%;
+      }
+    /*----  Portfolio  -----------------------------------------------------------*/
+
+    .project-details {
+        width: 50%;
+      }
+
+    .project-description {
+        font-size: 18px;
+      }
+      
+    .project-imageContainer {
+        width: 50%;
+      }
+
+    article img{
+        width: 100%;
+      }
+    
+    /*----  Contact  -----------------------------------------------------------*/
+    .social-link {
+        display: inline-block;
+        width: 25px;
+        height: 25px;
+        margin: 10px 10px;
+        background-size: 25px 25px;
+      }
+      
+}

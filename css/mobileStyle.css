@@ -1,0 +1,55 @@
+@media(max-width: 623px){
+    /*----  Header  -----------------------------------------------------------*/
+    nav{
+        display: none;
+    }
+    /*----  Hero  -----------------------------------------------------------*/
+    .hero {
+        height: 100%;
+      }
+    .container{
+        display: block;
+    }
+    
+    h1 {
+        font-size: 25px;
+        width: 100%;
+      }
+    .hero-image{
+        width: 100%;
+      }
+    /*----  Portfolio  -----------------------------------------------------------*/
+    article{
+        flex-direction: column;
+    }
+    
+    .project-details {
+        width: 100%;
+      }
+
+    .project-description {
+        font-size: 18px;
+      }
+      
+    .project-imageContainer {
+        width: 100%;
+      }
+
+    article img{
+        width: 100%;
+      }
+    
+    /*----  Event  -----------------------------------------------------------*/
+    .event{
+        width:98%;
+      }
+    /*----  Contact  -----------------------------------------------------------*/
+    .social-link {
+        display: inline-block;
+        width: 25px;
+        height: 25px;
+        margin: 10px 10px;
+        background-size: 25px 25px;
+      }
+      
+}
