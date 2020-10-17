@@ -51,5 +51,9 @@
         margin: 10px 10px;
         background-size: 25px 25px;
       }
+
+      .form-email button {
+        margin-bottom: 10px;
+      }
       
 }
